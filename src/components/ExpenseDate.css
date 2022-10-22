@@ -1,5 +1,5 @@
-.expense-items {
+.expense-item-date {
   display: flex;
   flex-direction: column;
-  margin-inline: 20%;
+  align-items: center;
 }
